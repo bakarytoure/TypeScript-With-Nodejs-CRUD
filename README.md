@@ -1,11 +1,11 @@
 ## Features
-*Create 
-*Update 
-*Delete
+* Create 
+* Update 
+* Delete
 
 ## Required System
-*Nodejs
-*Typescript
+* Nodejs
+* Typescript
 ## Setup
 To run this project, install it locally using npm:
 
